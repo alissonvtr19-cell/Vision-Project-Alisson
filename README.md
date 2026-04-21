@@ -121,9 +121,7 @@ Essas observações são coerentes com o comportamento teórico do algoritmo, um
 
 ## Observações experimentais
 
-Embora o objetivo futuro do projeto esteja associado à **extração de medidas corporais em equinos**, nesta etapa foi utilizada uma **imagem do meu cachorro (Juca)** para validação do pipeline de processamento.
-
-Tal escolha não compromete a atividade, uma vez que o foco da prática esteve na implementação e verificação do funcionamento do fluxo de captura, filtragem, detecção de bordas e salvamento das imagens resultantes.
+ O Objetivo futuro do projeto está associado  à **extração de medidas corporais em cães**
 
 ## Perspectivas futuras
 
