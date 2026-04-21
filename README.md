@@ -149,5 +149,5 @@ O uso da ferramenta ocorreu como suporte complementar ao processo de aprendizage
 
 ## Autor
 
-**Alan Freire**  
+**Alisson Vitor Da Silva**  
 Projeto desenvolvido no âmbito das atividades acadêmicas da disciplina de **Visão Computacional**.
